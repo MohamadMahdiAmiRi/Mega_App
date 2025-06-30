@@ -1,0 +1,7 @@
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.167.52:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AB%F0%9F%87%B7%20FR-57.128.167.52%3A1370
+
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.190.38%3A51615
+
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.190.38%3A51615
